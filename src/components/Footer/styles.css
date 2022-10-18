@@ -1,0 +1,35 @@
+.footer {
+    width: 100%;
+    max-width: 1024px;
+    font-size: 12px;
+}
+
+.footer .footerLists {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .footerLists {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .footerLists .footerList {
+    list-style: none;
+    padding: 0;
+}
+
+.footer .footerLists .footerListItem {
+    margin-top: 10px;
+    color: #003580;
+    cursor: pointer;
+}
+
+.footer  .footerCopy {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid rgba(0,0,0,0.3);
+    padding: 20px;
+}
